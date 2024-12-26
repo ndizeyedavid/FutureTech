@@ -5,9 +5,11 @@ A'ight, this project is all about learning react, use of api with gemini and dee
 
 # project mockup
 More bout the project structure is here on it's figma
->> [Figma Mockup](https://www.figma.com/design/WyBIyilWS31FP53QqW3dFr/Blog-Engine?node-id=18-400&t=maaMEkGDd6n9kcZU-1) 
+> [Figma Mockup](https://www.figma.com/design/WyBIyilWS31FP53QqW3dFr/Blog-Engine?node-id=18-400&t=maaMEkGDd6n9kcZU-1) 
 
 ### screenshots
+![image](https://github.com/user-attachments/assets/7bef24e9-6980-4476-8fdb-65ad50c8ea0f)
+
 
 # Collaborators
 1. Uwarugira Philipine
