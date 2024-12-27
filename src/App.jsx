@@ -2,7 +2,10 @@
 const App = () => {
   return (
     <>
-     <p className="text-3xl">Hello</p> 
+     <div className="h-screen w-full flex items-center justify-center">
+       <h1 className="text-[200px] text-primary-60 font-semibold">FutureTech</h1> 
+       
+     </div>
     </>
   )
 }
